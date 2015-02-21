@@ -13,7 +13,7 @@ campfire adapter
 
 slack adapter
 
-[slack adapter](http://g.recordit.co/ug93I98t3c.gif)
+![slack adapter](http://g.recordit.co/ug93I98t3c.gif)
 
 ## Requirement
 
