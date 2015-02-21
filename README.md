@@ -1,0 +1,2 @@
+# shinobubot
+Oshino Shinobu bot
