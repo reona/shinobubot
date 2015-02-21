@@ -13,7 +13,7 @@ campfire adapter
 
 slack adapter
 
-http://g.recordit.co/ug93I98t3c.gif
+[slack adapter](http://g.recordit.co/ug93I98t3c.gif)
 
 ## Requirement
 
@@ -42,7 +42,9 @@ cd shinobubot
 
 - [化物語について整理](docs/bakemono.md)
 
-### hara reona (reona)
+## Author
+
+hara reona (reona)
 
 - http://reonblog.com/
 
