@@ -1,14 +1,30 @@
-# shinobubot
+shinobubot
+====
 
-- Oshino Shinobu bot
+Overview
+
+## Description
 
 - [hubot](https://github.com/github/hubot)を使用した忍野忍botです。
 
-# インストール
+## Demo
+
+campfire adapter
+
+slack adapter
+
+http://g.recordit.co/ug93I98t3c.gif
+
+## Requirement
 
 - nodejsのpackage管理にnpmが必須になりますのでインストールお願いします。
 
-- インストール後、cloneしてhubotを実行すると必要なものが勝手に入ります。
+## Usage
+
+
+## Install
+
+- cloneしてhubotを実行すると必要なものが勝手に入ります。
 
 ```
 git clone https://github.com/reona/shinobubot.git
@@ -16,6 +32,20 @@ cd shinobubot
 ./bin/hubot
 ```
 
-# 使い方
+- slack に対応させる場合はアダプター名を指定して起動してください。(slack adapter はデフォルトでインストールされるようにしています。）
+
+```
+./bin/hubot --adapter slack
+```
+
+## Other
+
+- [化物語について整理](docs/bakemono.md)
+
+### hara reona (reona)
+
+- http://reonblog.com/
+
+
 
 
